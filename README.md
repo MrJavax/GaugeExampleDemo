@@ -1,6 +1,15 @@
 # GaugeExampleDemo
 Gauge Framework + Selenium WebDriver + NUnit + FileHelpers (CSV files)
 
+Notes:
+- Application URL can be changed in the following route : "Cignium/env/default.properties". Url property is APP_BASEURL.
+- Browsers supported for testing : Chrome, Firefox, IE. (You can configure what Browser to use by changing the "browser" property).
+- Test can be ran in parallel mode by using the following command: "gauge run --parallel Specs/"
+- Automation test can be ran by using the following command : "gauge run Specs/". (You must be located at Cignium folder)
+- Every time the test are ran, a report folder is generated. (Readable Report)
+- Screenshots are enabled. If that want to be changed, set the "screenshot_on_failure" property to false. (Property is located at default.properties).
+- DataGenerator class was created to generate random data.
+
 # Prerequisites
 - [Install Gauge](http://getgauge.io/get-started/index.html)
 - [Install Gauge-CSharp plugin](https://docs.gauge.org/latest/installation.html#language-plugins)
