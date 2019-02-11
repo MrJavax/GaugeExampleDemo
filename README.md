@@ -1,7 +1,7 @@
 # GaugeExampleDemo
 Gauge Framework + Selenium WebDriver + NUnit + FileHelpers (CSV files)
 
-Notes:
+# Notes:
 - Application URL can be changed in the following route : "Cignium/env/default.properties". Url property is APP_BASEURL.
 - Browsers supported for testing : Chrome, Firefox, IE. (You can configure what Browser to use by changing the "browser" property).
 - Test can be ran in parallel mode by using the following command: "gauge run --parallel Specs/"
