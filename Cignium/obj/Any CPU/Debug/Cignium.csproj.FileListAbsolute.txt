@@ -1,0 +1,22 @@
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\Cignium.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\Cignium.pdb
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\FluentAssertions.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\Gauge.CSharp.Lib.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\WebDriver.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\WebDriver.Support.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\FluentAssertions.pdb
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\FluentAssertions.xml
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\WebDriver.xml
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\WebDriver.Support.xml
+C:\Users\BigDaddy\Documents\Cignium\obj\Any CPU\Debug\Cignium.csprojResolveAssemblyReference.cache
+C:\Users\BigDaddy\Documents\Cignium\obj\Any CPU\Debug\Cignium.csproj.CoreCompileInputs.cache
+C:\Users\BigDaddy\Documents\Cignium\obj\Any CPU\Debug\Cignium.dll
+C:\Users\BigDaddy\Documents\Cignium\obj\Any CPU\Debug\Cignium.pdb
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\System.ValueTuple.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\System.ValueTuple.xml
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\nunit.framework.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\nunit.framework.pdb
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\nunit.framework.xml
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\FileHelpers.dll
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\FileHelpers.xml
+C:\Users\BigDaddy\Documents\Cignium\gauge_bin\RandomNameGeneratorLibrary.dll
