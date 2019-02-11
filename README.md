@@ -1,5 +1,5 @@
 # GaugeExampleDemo
-Gauge Framework + Selenium WebDriver
+Gauge Framework + Selenium WebDriver + NUnit + FileHelpers (CSV files)
 
 # Prerequisites
 - [Install Gauge](http://getgauge.io/get-started/index.html)
